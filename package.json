@@ -16,6 +16,7 @@
   "engine": {
     "node": "*",
     "npm": "*"
+    "npm": run postinstall
   },
   "scripts": {
     "start": "node server.js",
